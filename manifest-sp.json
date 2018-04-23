@@ -1,0 +1,13 @@
+{
+  "name": "AEM+",
+  "description": "AEM+ allows you to quickly add the xxx and xxx query strings.",
+  "version": "1.0",
+  "manifest_version": 2,
+  "permissions": [
+          "tabs"
+        ],
+  "browser_action": {
+    "default_icon": "logo.png",
+    "default_popup": "popup-sp.html"
+  }
+}
